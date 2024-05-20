@@ -1,4 +1,4 @@
-# Makine Öğrenmesi Dersi Projesi
+# Makine Öğrenmesi Dersi Ödevi
 
 ## Projenin Amacı
 
