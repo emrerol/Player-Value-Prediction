@@ -36,5 +36,25 @@ Average R2 Score: 0.9823593299161605
 ----------------------------------------------------------------------------
 
 SVR modeli için cross-validation sonuçları:
-...
+Best Model Score: -0.08521800450988137
+Average MSE Score: 1029237724917301.8
+Average MAE Score: 11212415.748412827
+Average R2 Score: -0.1296270633919227
+
+----------------------------------------------------------------------------
+
+LinearSVR modeli için cross-validation sonuçları:
+Best Model Score: 0.9999990809184789
+Average MSE Score: 3978423901927.0195
+Average MAE Score: 361723.5468528856
+Average R2 Score: 0.9972723750295813
+
+----------------------------------------------------------------------------
+
+MLPRegressor modeli için cross-validation sonuçları:
+Best Model Score: 0.9999816467284356
+Average MSE Score: 401022660587.7018
+Average MAE Score: 172590.6174745033
 Average R2 Score: 0.9992965707993919
+
+----------------------------------------------------------------------------
